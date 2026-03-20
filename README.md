@@ -1,7 +1,3 @@
-# 📚 ADR - Architectural Decision Records
+## 📄 Documentación
 
-Este directorio contiene las decisiones arquitectónicas del proyecto EducaMás.
-
-## Lista de ADRs
-
-1. [ADR 001 - Estrategia de almacenamiento de videos](001-almacenamiento-videos.md)
+- [Decisiones Arquitectónicas (ADR)](docs/adr/README.md)
