@@ -10,6 +10,7 @@ Se han planteado dos alternativas:
 
 🔹 Opción A: Almacenamiento en la nube con CDN
 - Uso de servicios como almacenamiento en la nube combinado con una CDN para distribuir el contenido de manera eficiente a los usuarios.
+
 🔹 Opción B: Servidores propios
 - Almacenamiento de videos en infraestructura propia gestionada por la empresa.
 
