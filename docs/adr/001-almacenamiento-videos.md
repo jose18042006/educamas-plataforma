@@ -4,6 +4,7 @@ Decisión sobre la estrategia de almacenamiento de videos para EducaMás
 20 de marzo de 2026
 
 3. Contexto
+
 La empresa EducaMás está desarrollando una plataforma de cursos online que incluirá contenido en video, texto, ejercicios prácticos y foros de discusión.
 Uno de los principales desafíos técnicos es definir la estrategia de almacenamiento y distribución de los videos de los cursos, considerando rendimiento, costos y escalabilidad.
 
