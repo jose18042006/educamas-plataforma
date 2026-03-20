@@ -54,6 +54,7 @@ La opción A es la más adecuada debido a que:
 - Evita inversión inicial en hardware.
 
 Comparación de opciones
+
 🟢 Opción A: Nube + CDN
 
 Ventajas:
